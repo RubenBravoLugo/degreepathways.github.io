@@ -112,8 +112,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Rock Paper Scissors program</span></h6>
 
 
-         <iframe src="https://editor.p5js.org/rubenbravolugo/embed/4Tiom-EWs"></iframe>
-          
+         <a href="https://eecs.oregonstate.edu/undergraduate-programs/computer-science">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Oregon_State_Beavers_logo.svg/1200px-Oregon_State_Beavers_logo.svg.png" height="233" width="144"> </a>
           
 
           <hr>
